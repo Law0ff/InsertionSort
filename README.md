@@ -1,2 +1,0 @@
-# InsertionSort
-Insertion Sort ödev 
